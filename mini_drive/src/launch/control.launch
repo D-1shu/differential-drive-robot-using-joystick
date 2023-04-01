@@ -1,0 +1,7 @@
+<launch>
+<node name="input_joy" pkg = "joy" type = "joy_node" />
+<node name="atom_core_data" pkg = "mini_drive" type = "main.py" />
+<!-- <node name="write_array" pkg="mini_drive" type="rover_i2c.py" output="screen"/> -->
+
+</launch>
+
