@@ -22,7 +22,7 @@ This file writes the array to the Arduino via I2C.
 6. Use the joystick to control the robot's movement.
 
 ## Glimpse
-![The small BOT](bot.png)
+![The small BOT](bot.jpg)
 
 ## Credits
 This package was created by Devanshu Sharma for personal Project
